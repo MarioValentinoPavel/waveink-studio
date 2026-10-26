@@ -1,0 +1,22 @@
+window.I18N_EN = {
+  skip: 'Skip to content', n1: 'Walk-in', n2: 'Pick a tattoo', n3: 'Services', n4: 'Find us',
+  h1a: 'Fine-line tattoos,', h1b: 'no appointment needed',
+  hp: 'Wave Ink Studio, a short walk from the beach in Lloret de Mar. Come in whenever you like, choose your design and leave with your tattoo. Piercing and tooth gems too.',
+  go: 'Get directions now', choose: 'Choose a design', rate: 'on Google · 42 reviews',
+  sch: 'How walk-ins work',
+  s1h: 'Come into the studio', s1p: 'Monday to Saturday, morning or afternoon. If you want to be sure of a slot, message us on WhatsApp first.',
+  s2h: 'Choose or bring your idea', s2p: 'Pick one of our designs or show us yours. We adapt it to the size and spot you want.',
+  s3h: 'We do it on the spot', s3p: 'Small fine-line tattoos are done in one visit. We explain the aftercare and you are good to go.',
+  elh: 'Pick your tattoo', elp: 'Real work from the studio. Tap the ones you like and send them to us: we will tell you the price and a slot for today.',
+  a1: 'Small fine-line heart on the collarbone', a2: 'Tiny fine-line sun below the neck', a3: 'Fine-line lilies on the side', a4: 'Two delicate fish in red ink', a5: 'Dotwork ornament on the shoulder', a6: 'Small fine-line flower on the hip', a7: 'Handwritten phrase on the arm', a8: 'Fine-line floral branch on the forearm', a9: 'Girl with her dog in fine line', a10: 'Black butterfly with pink flowers in colour', a11: 'Leopard half sleeve with flowers', a12: 'Smile with a sparkling tooth gem',
+  p1: 'Mini heart', p2: 'Sun', p3: 'Lilies on the side', p4: 'Red fish', p6: 'Hip flower', p7: 'Handwritten phrase', p8: 'Fine-line floral', p9: 'Your pet', p10: 'Colour butterfly', p11: 'Leopard and flowers',
+  send: 'Ask on WhatsApp',
+  svh: 'What we do', v1h: 'Tattoos', v1p: 'Fine line, phrases, flowers, pets, dotwork and colour. From mini tattoos to bigger pieces.',
+  v2p: 'Ask us which piercings and jewellery we have available when you come in.',
+  v3p: 'A little sparkle for your smile. Safe, non-invasive application in just a few minutes. Perfect for your holidays.',
+  arh: 'Your artists', karen: 'Tattoo artist and illustrator. Her Instagram has more of her work, like this kitten she loved making.',
+  rsh: '5.0 from 42 reviews',
+  vsh: 'Carrer dels Horts, 9', vsp: 'In the centre of Lloret de Mar, a few minutes’ walk from the beach.',
+  d1: 'Hours', hr1: 'Monday to Saturday', hr2: 'Sunday, closed', d2: 'Phone',
+  lg1: 'Legal notice', lg2: 'Privacy', lg3: 'Cookies', lg4: 'Cookie settings'
+};
